@@ -1,0 +1,15 @@
+.sidebar {
+  height: 100%;
+  top: 0;
+  left: 0;
+  border-right: 1px solid black;
+  width: 0px;
+  position: absolute;
+  transition: width 0.5s
+}
+
+.sidebar-open {
+  width:200px;
+  position: absolute;
+  transition: width 0.5s
+}

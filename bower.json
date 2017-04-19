@@ -1,0 +1,20 @@
+{
+  "name": "todorr",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Maciej Kozera <maciek.kozera@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mandrive/todorr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.2"
+  }
+}
